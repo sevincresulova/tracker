@@ -1,0 +1,106 @@
+.zero{ 
+    box-sizing: border-box;
+    width: 336px;
+    height: auto;
+    margin-left: 513px;
+    margin-top: 157px;
+    box-shadow: 2px;
+    border-radius:10px;
+    border: 1px solid #c4c4c4;
+   
+}
+
+.one{
+    background-color: #FFDC40 ;
+    border-radius: 10px 10px 0 0 ;
+    width: 336px;
+    height: 28px;
+}
+h1{
+    background-color: white;
+    margin-top: 17px;
+    margin-bottom: 39px;
+    margin-left: 85px;
+    margin-right: 87px;
+}   
+.input{
+    margin-left: 28px;
+    margin-right: 22px;
+    border-radius: 10px;
+    width:280px;
+    height: 30px;
+    border: none;
+    outline: none;
+}
+ .button{
+    width: 42px;
+    height: 42px;
+    background-color: #9953F1;
+    border-radius: 71px;
+ }
+.add{
+    display: flex;
+    height: 42px;
+    margin-left:77px ;
+    margin-right: 109px;
+    background-color: #833ae0;
+    border-radius: 71px;
+    margin-top: 70px;
+    margin-bottom: 14px;
+    color: white;
+
+}
+.part{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 20px;
+}
+#addTo{
+  
+margin:0;
+margin-top: 12px;
+margin-left: 5px;
+   
+}
+.plus{
+    border-radius: 42px;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.picst{
+    margin-left: 270px;
+    margin-bottom: 12px;
+}
+.picnd{
+    position: relative;
+    margin-top:0px; 
+}
+.picnd img{
+    position: absolute;
+    top: 6px;
+    left: -30px;
+     
+}
+#myUL{
+    border: 1px solid black;
+    list-style-type: none;
+    border-radius: 10px;
+    margin-left: 28px;
+    margin-right: 22px;
+    background-color:#f7f5f0;
+    
+}
+#myUL img{
+     margin-left: 5px;
+}
+ 
+li{
+    display: flex;
+    justify-content: space-between;
+}
